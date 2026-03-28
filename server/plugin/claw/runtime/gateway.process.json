@@ -1,0 +1,9 @@
+{
+  "pid": 41024,
+  "startedAt": "2026-03-12T21:42:03.7126212+08:00",
+  "command": [
+    "C:\\Users\\tangs\\Documents\\GitHub\\gva-fork\\server\\plugin\\claw\\gvaclaw\\gvaclaw.exe",
+    "gateway",
+    "run"
+  ]
+}

@@ -1,0 +1,11 @@
+./acp.go
+./agent.go
+./agents.go
+./approvals.go
+./cron_cli.go
+./onboard.go
+./pairing.go
+./root.go
+./sessions.go
+./skills.go
+./system.go

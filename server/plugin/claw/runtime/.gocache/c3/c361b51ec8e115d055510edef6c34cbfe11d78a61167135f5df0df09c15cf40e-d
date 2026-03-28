@@ -1,0 +1,4 @@
+./cache.go
+./manager.go
+./prune.go
+./tree.go

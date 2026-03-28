@@ -1,0 +1,11 @@
+./complete.go
+./complete_helper.go
+./history.go
+./operation.go
+./readline.go
+./runebuf.go
+./search.go
+./terminal.go
+./undo.go
+./utils.go
+./vim.go

@@ -1,0 +1,11 @@
+./browser.go
+./channels.go
+./commands.go
+./example.go
+./gateway.go
+./health.go
+./logs.go
+./memory.go
+./new.go
+./status.go
+./tui.go

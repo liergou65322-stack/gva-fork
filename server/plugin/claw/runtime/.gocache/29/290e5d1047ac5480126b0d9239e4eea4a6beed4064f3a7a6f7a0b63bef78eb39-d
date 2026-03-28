@@ -1,0 +1,17 @@
+./base.go
+./capabilities.go
+./dingtalk.go
+./discord.go
+./feishu.go
+./googlechat.go
+./gotify.go
+./infoflow.go
+./manager.go
+./qq.go
+./slack.go
+./teams.go
+./telegram.go
+./thread_binding_storage.go
+./thread_bindings.go
+./wework.go
+./whatsapp.go
